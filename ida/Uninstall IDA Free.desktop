@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall IDA Free
+Comment=Uninstall
+Icon=
+Exec=/home/master/ctf/tools/ida/uninstall
+Terminal=false
+Path=/home/master/ctf/tools/ida

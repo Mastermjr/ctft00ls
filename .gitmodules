@@ -1,0 +1,6 @@
+[submodule "volatility"]
+	path = volatility
+	url = git@github.com:volatilityfoundation/volatility.git
+[submodule "peda"]
+	path = peda
+	url = https://github.com/longld/peda
