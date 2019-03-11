@@ -2,5 +2,6 @@
 	path = volatility
 	url = git@github.com:volatilityfoundation/volatility.git
 [submodule "peda"]
+  ignore = dirty
 	path = peda
 	url = https://github.com/longld/peda
