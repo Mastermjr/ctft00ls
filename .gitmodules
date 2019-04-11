@@ -11,3 +11,6 @@
 [submodule "ROPgadget"]
 	path = ROPgadget
 	url = https://github.com/JonathanSalwan/ROPgadget.git
+[submodule "shellnoob"]
+	path = shellnoob
+	url = https://github.com/Mastermjr/shellnoob
