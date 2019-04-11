@@ -5,3 +5,9 @@
   ignore = dirty
 	path = peda
 	url = https://github.com/longld/peda
+[submodule "fixenvPEDA"]
+	path = fixenvPEDA
+	url = https://github.com/Mastermjr/fixenvPEDA
+[submodule "ROPgadget"]
+	path = ROPgadget
+	url = https://github.com/JonathanSalwan/ROPgadget.git
