@@ -17,3 +17,6 @@
 [submodule "radare2"]
 	path = radare2
 	url = https://github.com/radare/radare2.git
+[submodule "x86-manpages"]
+	path = x86-manpages
+	url = https://github.com/ttmo-O/x86-manpages
